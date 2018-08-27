@@ -169,8 +169,8 @@ p {
   align-items: stretch;
   border-bottom: 0px none transparent;
   background-color: transparent;
-  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .55), rgba(0, 0, 0, .55)), url('../images/Asuka-main-image.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .55), rgba(0, 0, 0, .55)), url('../images/Asuka-main-image.jpg');
+  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .55), rgba(0, 0, 0, .55)), url('../images/sushi_kuma_website_c_dLhIx.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .55), rgba(0, 0, 0, .55)), url('../images/sushi_kuma_website_c_dLhIx.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
